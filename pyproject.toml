@@ -1,5 +1,5 @@
 [project]
-name = "mcp_template"
+name = "mcp_template_anthropic"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"

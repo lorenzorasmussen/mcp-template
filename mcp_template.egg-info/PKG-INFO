@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: mcp_template
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: langchain>=0.3.25
+Requires-Dist: langchain-anthropic>=0.3.12
+Requires-Dist: langchain-mcp-adapters>=0.1.4
+Requires-Dist: langgraph>=0.4.1
+Requires-Dist: mcp>=1.9.2
+Requires-Dist: python-dotenv>=1.1.0
+
+# BrightDataMCPServerAgent
+
